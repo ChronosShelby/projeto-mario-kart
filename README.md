@@ -101,3 +101,19 @@
 
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
+
+<hr>
+
+<h2>📚 Créditos</h2>
+
+<p>
+Este projeto foi desenvolvido como parte do desafio <strong>
+Simulador de Corridas do Mario Kart com Node.js
+</strong>,
+proposto pelo <strong>Felipão</strong> na plataforma
+<strong>Digital Innovation One (DIO)</strong>.
+</p>
+
+<p>
+Agradeço ao Felipão pela proposta do desafio e pela oportunidade de colocar em prática conceitos de Node.js de forma divertida e desafiadora.
+</p>
